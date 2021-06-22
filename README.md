@@ -1,4 +1,4 @@
-# ML-Recipe-Classification
+# Deep-Learning-Recipe-Classification
 Developed a predictive model that can determine, given a recipe, which of the 12 categories the recipe falls in.
 
 Text classification is a popular problem in the deep learning field with various possible applications and abundant implementations already in place. Classification in text is a common task of classifying a sequence into a single category. This could be sentiment of a sentence, marking an email as spam or inappropriate comments getting flagged among other examples. Classification problems could be binary or multiclass. Deep neural networks, particularly recurrent networks, are being used for the purpose of text classification also known as sequence learning. In this project, the main objective was to learn to train a recurrent neural network from scratch for the purpose of classifying recipes into one of 12 categories. The input to the model would be text sequences and the output would be the class of the given recipe between 1 and 12. 
