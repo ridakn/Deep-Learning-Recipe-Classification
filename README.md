@@ -9,4 +9,5 @@ I started the experiments with a simple model with three LSTM layers. The initia
 
 Following is a sample prediction for the first recipe in the test set. The predicted category is printed below the recipe.
 
-![image](https://user-images.githubusercontent.com/32781544/122906722-50dfad00-d307-11eb-9651-5ed21527fc01.png)
+<img width="1010" alt="Screen Shot 2021-05-18 at 1 39 29 PM" src="https://user-images.githubusercontent.com/32781544/122907444-014db100-d308-11eb-8af2-ff106119286d.png">
+
